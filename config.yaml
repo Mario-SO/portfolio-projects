@@ -1,0 +1,44 @@
+baseURL: https://blog.mariodev.xyz/
+languageCode: en-us
+title: Mario S.O
+
+taxonomies:
+  tag: tags
+
+permalinks:
+  post: /:filename/
+
+params:
+  dateFormat: 2 Jan, 2006
+  footerText: blog.mariodev.xyz
+
+markup:
+  defaultMarkdownHandler: goldmark
+  goldmark:
+    extensions:
+      definitionList: true
+      footnote: true
+      linkify: true
+      strikethrough: true
+      table: true
+      taskList: true
+      typographer: true
+    parser:
+      attribute: true
+      autoHeadingID: true
+    renderer:
+      hardWraps: false
+      unsafe: true
+      xHTML: false
+  highlight:
+    codeFences: true
+    hl_Lines: ""
+    lineNoStart: 1
+    lineNos: false
+    lineNumbersInTable: true
+    noClasses: true
+    style: dracula
+    tabWidth: 4
+  tableOfContents:
+    endLevel: 6
+    startLevel: 2
