@@ -10,7 +10,7 @@ permalinks:
 
 params:
   dateFormat: 2 Jan, 2006
-  footerText: blog.mariodev.xyz
+  footerText: projects.mariodev.xyz
 
 markup:
   defaultMarkdownHandler: goldmark
