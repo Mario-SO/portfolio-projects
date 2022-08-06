@@ -24,7 +24,7 @@ Also some social media just in case it is easier for someone to contact me direc
 This project has gone through several phases where I was struggling how to make it both look good and be functional enough for a recruiter to see my work.
 
 ## Phase 1 - Testing the grounds
-![first](images/projectsV2.png)
+![first](/images/projectsV2.png)
 
 I knew I wanted a website that was simple and easy to use, so I started with the classical grid layout with some photos and links. The style was a bit of a mess 🥴, but I liked the *cartoonish* style of the cards so I iterated on it a couple of times.
 
@@ -33,12 +33,12 @@ I knew I wanted a website that was simple and easy to use, so I started with the
 Simple iteration on the color pallate and size of cards so it was more mobile friendly.
 
 ## Phase 2 - Mobile friendly + Navigation
-![third](images/projectsV4.png)
+![third](/images/projectsV4.png)
 
 More color pallete 🎨 changes and the addition of a navbar. At this point i wasn't very happy with how it was turning out, so I decided to make it mor like a blog and lees of a simple card layout.
 
 ## Phase 3 - Complete redesign
-![fourth](images/projectsV5.png)
+![fourth](/images/projectsV5.png)
 
 And here are we now 🥳. This is the final version of the projects page and I think it was the best decision to make.
 
