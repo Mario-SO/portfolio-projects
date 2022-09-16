@@ -28,7 +28,7 @@ This project has gone through several phases where I was struggling how to make 
 
 I knew I wanted a website that was simple and easy to use, so I started with the classical grid layout with some photos and links. The style was a bit of a mess 🥴, but I liked the *cartoonish* style of the cards so I iterated on it a couple of times.
 
-![second](images/projectsV3.png)
+![second](/images/projectsV3.png)
 
 Simple iteration on the color pallate and size of cards so it was more mobile friendly.
 
